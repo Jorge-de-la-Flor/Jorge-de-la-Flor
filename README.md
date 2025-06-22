@@ -34,7 +34,7 @@ Specializing in: Business Process Automation | Data Analytics | Supply Chain Opt
 ### Contact
 - **LinkedIn:** [jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/)
 - **Email:** jafdelaflor@gmail.com
-- **Portfolio:** Code samples and project details available upon request
+- **Portfolio:** Code samples available as GitHub Gists; project details available upon request
 
 <!--
 **Jorge-de-la-Flor/Jorge-de-la-Flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
