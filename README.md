@@ -29,7 +29,6 @@ Specializing in: Business Process Automation | Data Analytics | Supply Chain Opt
 ### Key Achievements
 - Streamlined logistics operations and documentation processes for diesel injection equipment specialist
 - Developed automation solutions improving workflow efficiency and reducing manual tasks
-- **3.24 GPA** in demanding dual-degree international business program (Peru-USA)
 - Trilingual proficiency enabling seamless international business communications
 
 ### Contact
