@@ -33,7 +33,7 @@ Specializing in: Business Process Automation | Data Analytics | Supply Chain Opt
 - Trilingual proficiency enabling seamless international business communications
 
 ### Contact
-- **LinkedIn:** [jorge-de-la-flor](https://linkedin.com/in/jorge-de-la-flor)
+- **LinkedIn:** [jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/)
 - **Email:** jafdelaflor@gmail.com
 - **Portfolio:** Code samples and project details available upon request
 
