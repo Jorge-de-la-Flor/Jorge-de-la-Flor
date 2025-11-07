@@ -5,7 +5,7 @@
 Specializing in: Business Process Automation | Data Analytics | Supply Chain Optimization
 
 ### Tech Stack
-- **Languages:** Python (Advanced), SQL, C/C++, Rust, Bash/Linux
+- **Languages:** Python, SQL, C/C++, Rust, Bash/Linux
 - **Frameworks:** Flask, Django, SQLAlchemy
 - **Cloud & DevOps:** Microsoft Azure, Git/GitHub, CI/CD
 - **Hardware & IoT:** Arduino, ESP32, Embedded Systems
