@@ -17,7 +17,7 @@ I bridge business strategy and technical execution, specializing in **embedded s
 
 **Languages & Core:**
 - **Python** (Advanced) - Primary development language, automation, computer vision
-- **Rust** (Learning/Intermediate) - Systems programming, embedded development
+- **Rust** - Systems programming, embedded development
 - **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
 - **SQL** (SQLite, PostgreSQL) - Database design and analytics
 - **Bash/Unix/Linux** - System administration and automation
