@@ -1,40 +1,144 @@
 # Jorge de la Flor
 
-## International Business Professional + Python Developer
+**Cross-Industry Business-Focused Embedded Systems Engineer & Integrator**  
+International Business Professional • Python & Rust Developer • IoT Solutions Architect
 
-Specializing in: Business Process Automation | Data Analytics | Supply Chain Optimization
+## 🎯 What I Do
 
-### Tech Stack
-- **Languages:** Python, SQL, C/C++, Rust, Bash/Linux
-- **Frameworks:** Flask, Django, SQLAlchemy
-- **Cloud & DevOps:** Microsoft Azure, Git/GitHub, CI/CD
-- **Hardware & IoT:** Arduino, ESP32, Embedded Systems
-- **Databases:** SQLite, PostgreSQL, Database Design
-- **Data Science:** Pandas, NumPy, Data Analysis Pipelines
+I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
 
-### What I Build
-- **Business automation tools** for process optimization and workflow management
-- **Supply chain analytics** solutions with inventory and cost optimization
-- **IoT monitoring systems** for industrial applications and equipment monitoring
-- **Web applications** with secure database integration and API development
-- **Cross-platform solutions** integrating hardware, software, and cloud services
+**Core Focus Areas:**
+- 🔧 Embedded edge systems development and hardware-software integration
+- 🤖 Industrial automation and IoT monitoring solutions
+- 📊 Business process optimization through custom software
+- 🌐 Cross-platform system architecture and integration frameworks
 
-### Professional Experience
-- **Logistics and operations specialist** with expertise in documentation and regulatory compliance
-- **Cross-cultural business development** across Peru-China-USA markets
-- **Technical consulting** for process automation and embedded systems implementation
-- **Multi-language capabilities** enabling global business communications
-- **Dual-degree education** combining business acumen with technical execution
+## 💻 Tech Stack
 
-### Key Achievements
-- Streamlined logistics operations and documentation processes for diesel injection equipment specialist
-- Developed automation solutions improving workflow efficiency and reducing manual tasks
-- Trilingual proficiency enabling seamless international business communications
+**Languages & Core:**
+- **Python** (Advanced) - Primary development language, automation, computer vision
+- **Rust** (Learning/Intermediate) - Systems programming, embedded development
+- **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
+- **SQL** (SQLite, PostgreSQL) - Database design and analytics
+- **Bash/Unix/Linux** - System administration and automation
 
-### Contact
-- **LinkedIn:** [jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/)
+**Frameworks & Tools:**
+- **Python Ecosystem:** Flask, Django, FastAPI, SQLAlchemy, asyncio
+- **Computer Vision:** OpenCV, Tesseract OCR
+- **Data Science:** Pandas, NumPy, Polars
+- **Embedded Platforms:** Arduino IDE, PlatformIO, ESP-IDF, STM32Cube
+- **Cloud & DevOps:** Microsoft Azure (AZ-204, DP-100, AZ-400 equivalent), Git/GitHub/GitLab
+- **Hardware Design:** KiCad, Tinkercad, Inventor
+
+**Specialized Skills:**
+- Hardware Abstraction Layer (HAL) frameworks
+- IoT protocols: UART, I2C, SPI, MQTT
+- Python ↔ C/C++ integration for cross-platform applications
+- Database design and optimization
+- BI Tools: Power BI, Google Looker Studio, Tableau
+
+## 🚀 What I Build
+
+### Embedded Systems & IoT
+- Custom embedded monitoring systems for industrial applications
+- Hardware-software integration frameworks for heterogeneous platforms
+- IoT solutions spanning requirements analysis to deployment and validation
+
+### Business Automation
+- Process automation tools for workflow optimization and efficiency
+- Supply chain analytics with inventory and cost optimization
+- Custom Python applications for data processing and reporting
+- Document processing and workflow automation systems
+
+### Web & Cloud Applications
+- Full-stack web applications with secure database integration
+- RESTful APIs and microservices architecture
+- Cloud-based solutions with Azure integration
+- Cross-platform solutions integrating hardware, software, and cloud services
+
+## 🎓 Background
+
+**Education:**
+- **Dual Degree:** B.S. International Business  
+  Universidad San Ignacio de Loyola (Peru) + San Ignacio University (USA)
+- **Academic Performance:** Top third/fifth of class
+- **Recognition:** 1st place, USIL-SIU International University Fairs (2020)
+
+**Professional Certifications (Equivalent Level):**
+- Microsoft Azure Developer Associate (AZ-204)
+- Azure Data Science (DP-100)
+- Azure DevOps (AZ-400)
+- Python Professional Certification path (working toward PCPP1)
+- Frontend Web Development (Bootcamp certified)
+
+**Languages:**
+- 🇪🇸 Spanish (Native)
+- 🇺🇸 English (Advanced - ICPNA certified, MET International)
+- 🇨🇳 Chinese (Intermediate - HSK2 certified)
+
+## 💼 Professional Experience
+
+**Current:** Freelance Embedded Systems Developer & Technical Integrator
+- Technical consulting for process automation and embedded systems
+- Custom Python solutions for workflow optimization
+- End-to-end embedded systems projects (Arduino/ESP32/STM32)
+- Digital platform development with international clients
+- Logistics and operations process analysis
+
+**Previous Roles:**
+- Import Logistics & Technical Specialist at UNEX DIESEL SAC
+- Independent Technical Services (electrical, calibration, automation)
+- Programming instruction and multilingual education
+
+## 🏆 Key Achievements
+
+- **1st Place:** USIL-SIU International University Fairs (2020)
+- Designed and deployed embedded monitoring systems for industrial applications
+- Streamlined logistics operations and regulatory compliance documentation
+- Developed computer vision solutions for automated document processing
+- Built cross-cultural business capabilities across Peru-China-USA markets
+- Created automation solutions improving workflow efficiency 50%+
+
+## 🌟 Professional Strengths
+
+**Technical Excellence:**
+- Rapid technical adaptation through hands-on learning
+- Strong hardware + software integration capabilities
+- Full-stack development from embedded to cloud
+- Proven troubleshooting across hardware, software, and networks
+
+**Business Acumen:**
+- International trade and supply chain expertise
+- Process analysis and optimization
+- Cross-cultural communication and negotiation
+- Strategic alignment of technology with business goals
+
+**Leadership & Innovation:**
+- Project management from concept to delivery
+- Active learning methodologies (PBL, Design Thinking)
+- Collaborative team building in technical environments
+- Pioneering integrated hardware-software solutions
+
+## 🔬 Current Focus
+
+- 🦀 Mastering **Rust** for safe, high-performance embedded systems
+- 🔧 Building advanced **hardware abstraction frameworks**
+- 🤖 Exploring **embedded-hal** ecosystem and contributing to Rust embedded community
+- 📡 Developing **universal connectivity solutions** for heterogeneous platforms
+- 🌐 Expanding expertise in **IoT system architecture** and edge computing
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [jorge-de-la-flor](https://linkedin.com/in/jorge-de-la-flor)
 - **Email:** jafdelaflor@gmail.com
-- **Portfolio:** Code samples available as GitHub Gists; project details available upon request
+- **Portfolio:** [jorge-de-la-flor.github.io](https://jorge-de-la-flor.github.io)
+- **Code Samples:** Available as GitHub Gists • Detailed project information provided upon request
+
+---
+
+💡 *Open to collaboration on embedded systems projects, industrial automation solutions, and innovative hardware-software integration challenges.*
+
+🌎 *Available for remote consulting and technical advisory roles with international teams.*
 
 <!--
 **Jorge-de-la-Flor/Jorge-de-la-Flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
