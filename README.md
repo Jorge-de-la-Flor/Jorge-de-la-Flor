@@ -4,10 +4,10 @@
 International Business Professional • Python & Rust Developer • IoT Solutions Architect
 
 ## 🎯 What I Do
+
 I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
 
 **Core Focus Areas:**
-
 - 🔧 Embedded edge systems development and hardware-software integration
 - 🤖 Industrial automation and IoT monitoring solutions
 - 📊 Business process optimization through custom software
