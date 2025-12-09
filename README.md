@@ -17,7 +17,7 @@ I bridge business strategy and technical execution, specializing in **embedded s
 ## 💻 Tech Stack
 
 **Languages & Core:**
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - **Python** (Advanced) - Primary development language, automation, computer vision
 - **Rust** - Systems programming, embedded development
 - **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
