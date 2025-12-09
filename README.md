@@ -9,7 +9,6 @@ I bridge business strategy and technical execution, specializing in **embedded s
 
 **Core Focus Areas:**
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔧 Embedded edge systems development and hardware-software integration
 - 🤖 Industrial automation and IoT monitoring solutions
 - 📊 Business process optimization through custom software
@@ -18,6 +17,7 @@ I bridge business strategy and technical execution, specializing in **embedded s
 ## 💻 Tech Stack
 
 **Languages & Core:**
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 - **Python** (Advanced) - Primary development language, automation, computer vision
 - **Rust** - Systems programming, embedded development
 - **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
