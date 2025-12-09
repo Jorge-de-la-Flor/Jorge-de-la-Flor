@@ -1,8 +1,14 @@
+<div align="center">
+
 # Jorge de la Flor
 
-**Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
+### Embedded & Micro AI Developer · Python & Rust · From hardware to business impact
 
-I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
+[![Portfolio](https://img.shields.io/badge/Portfolio-jorge--de--la--flor.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://jorge-de-la-flor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--de--la--flor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-de-la-flor)
+[![Email](https://img.shields.io/badge/Email-jafdelaflor@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafdelaflor@gmail.com)
+
+</div>
 
 ---
 
@@ -10,7 +16,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 - Specialized in **embedded systems**, **Micro AI** and solutions in **Python** and **Rust**.  
 - Background in **International Business**, which helps translate business needs into real technical systems.  
-- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things **simpler**, **faster** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
+- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things more **simple**, **fast** and **reliable** for everyone, and I am always looking for ways to **optimize** each system a bit further.
 
 ---
 
@@ -62,9 +68,10 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ---
 
-💡 *Open to collaboration on embedded systems projects, industrial automation solutions, and innovative hardware-software integration challenges.*
+💡 *Open to collaboration on embedded systems projects, industrial automation solutions, and innovative hardware–software integration challenges.*
 
 🌎 *Available for remote consulting and technical advisory roles with international teams.*
+
 
 <!--
 **Jorge-de-la-Flor/Jorge-de-la-Flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
