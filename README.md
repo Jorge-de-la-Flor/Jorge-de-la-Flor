@@ -1,138 +1,64 @@
 # Jorge de la Flor
 
-**Cross-Industry Business-Focused Embedded Systems Engineer & Integrator**  
-International Business Professional • Python & Rust Developer • IoT Solutions Architect
+**Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
 
-## 🎯 What I Do
+I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
 
-I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
+---
 
-**Core Focus Areas:**
-- 🔧 Embedded edge systems development and hardware-software integration
-- 🤖 Industrial automation and IoT monitoring solutions
-- 📊 Business process optimization through custom software
-- 🌐 Cross-platform system architecture and integration frameworks
+## 🧠 About me
 
-## 💻 Tech Stack
+- Specialized in **embedded systems**, **Micro AI** and solutions in **Python** and **Rust**.  
+- Background in **International Business**, which helps translate business needs into real technical systems.  
+- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things **simpler**, **faster** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
 
-**Languages & Core:**
-- **Python** (Advanced) - Primary development language, automation, computer vision
-- **Rust** - Systems programming, embedded development
-- **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
-- **SQL** (SQLite, PostgreSQL) - Database design and analytics
-- **Bash/Unix/Linux** - System administration and automation
+---
 
-**Frameworks & Tools:**
-- **Python Ecosystem:** Flask, Django, FastAPI, SQLAlchemy, asyncio
-- **Computer Vision:** OpenCV, Tesseract OCR
-- **Data Science:** Pandas, NumPy, Polars
-- **Embedded Platforms:** Arduino IDE, PlatformIO, ESP-IDF, STM32Cube
-- **Cloud & DevOps:** Microsoft Azure (AZ-204, DP-100, AZ-400 equivalent), Git/GitHub/GitLab
-- **Hardware Design:** KiCad, Tinkercad, Inventor
+## 🛠️ Tech stack
 
-**Specialized Skills:**
-- Hardware Abstraction Layer (HAL) frameworks
-- IoT protocols: UART, I2C, SPI, MQTT
-- Python ↔ C/C++ integration for cross-platform applications
-- Database design and optimization
-- BI Tools: Power BI, Google Looker Studio, Tableau
+**Main languages**
 
-## 🚀 What I Build
+- 🐍 **Python** · Automation, backend, tooling, data.  
+- 🦀 **Rust** · Systems, embedded, `embedded-hal`.  
+- ⚙️ **C/C++** · Arduino, ESP-IDF, STM32 (bare-metal / HAL).
 
-### Embedded Systems & IoT
-- Custom embedded monitoring systems for industrial applications
-- Hardware-software integration frameworks for heterogeneous platforms
-- IoT solutions spanning requirements analysis to deployment and validation
+**Embedded & IoT**
 
-### Business Automation
-- Process automation tools for workflow optimization and efficiency
-- Supply chain analytics with inventory and cost optimization
-- Custom Python applications for data processing and reporting
-- Document processing and workflow automation systems
+- Boards: **ESP32**, **STM32**, **Arduino**.  
+- Tooling: PlatformIO, ESP-IDF, STM32Cube.  
+- Protocols: UART, I2C, SPI, MQTT.
 
-### Web & Cloud Applications
-- Full-stack web applications with secure database integration
-- RESTful APIs and microservices architecture
-- Cloud-based solutions with Azure integration
-- Cross-platform solutions integrating hardware, software, and cloud services
+**Backend, data & environment**
 
-## 🎓 Background
+- APIs with **FastAPI / Flask**.  
+- Databases: **PostgreSQL**, **SQLite**.  
+- Automation and scripting on **Linux**.
 
-**Education:**
-- **Dual Degree:** B.S. International Business  
-  Universidad San Ignacio de Loyola (Peru) + San Ignacio University (USA)
-- **Academic Performance:** Top third/fifth of class
-- **Recognition:** 1st place, USIL-SIU International University Fairs (2020)
+---
 
-**Professional Certifications (Equivalent Level):**
-- Microsoft Azure Developer Associate (AZ-204)
-- Azure Data Science (DP-100)
-- Azure DevOps (AZ-400)
-- Python Professional Certification path (working toward PCPP1)
-- Frontend Web Development (Bootcamp certified)
+## 🚀 Projects
 
-**Languages:**
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (Advanced - ICPNA certified, MET International)
-- 🇨🇳 Chinese (Intermediate - HSK2 certified)
+- 🐍 **Snake Code Institute** – Professional Python track: from fundamentals to architecture (SOLID, testing, FastAPI).  
+- 🦀 **Crab Code Institute** – Rust for systems and embedded with `embedded-hal` and custom tooling.  
+- ⚙️ **Industrial embedded systems** – ESP32/STM32/Arduino → Rust HALs → monitoring and IoT in production.
 
-## 💼 Professional Experience
+> More project details and context are on my [portfolio](https://jorge-de-la-flor.github.io).
 
-**Current:** Freelance Embedded Systems Developer & Technical Integrator
-- Technical consulting for process automation and embedded systems
-- Custom Python solutions for workflow optimization
-- End-to-end embedded systems projects (Arduino/ESP32/STM32)
-- Digital platform development with international clients
-- Logistics and operations process analysis
+---
 
-**Previous Roles:**
-- Import Logistics & Technical Specialist at UNEX DIESEL SAC
-- Independent Technical Services (electrical, calibration, automation)
-- Programming instruction and multilingual education
+## 🎯 Current focus
 
-## 🏆 Key Achievements
+- Deepening **Rust** for embedded systems and reusable frameworks.  
+- Designing **Micro AI at the edge** for real-world use cases (optimization, monitoring, automation).  
+- Creating educational content for developers who want to move from “scripts” to **systems**.
 
-- **1st Place:** USIL-SIU International University Fairs (2020)
-- Designed and deployed embedded monitoring systems for industrial applications
-- Streamlined logistics operations and regulatory compliance documentation
-- Developed computer vision solutions for automated document processing
-- Built cross-cultural business capabilities across Peru-China-USA markets
-- Created automation solutions improving workflow efficiency 50%+
+---
 
-## 🌟 Professional Strengths
+## 📫 Where to find me
 
-**Technical Excellence:**
-- Rapid technical adaptation through hands-on learning
-- Strong hardware + software integration capabilities
-- Full-stack development from embedded to cloud
-- Proven troubleshooting across hardware, software, and networks
-
-**Business Acumen:**
-- International trade and supply chain expertise
-- Process analysis and optimization
-- Cross-cultural communication and negotiation
-- Strategic alignment of technology with business goals
-
-**Leadership & Innovation:**
-- Project management from concept to delivery
-- Active learning methodologies (PBL, Design Thinking)
-- Collaborative team building in technical environments
-- Pioneering integrated hardware-software solutions
-
-## 🔬 Current Focus
-
-- 🦀 Mastering **Rust** for safe, high-performance embedded systems
-- 🔧 Building advanced **hardware abstraction frameworks**
-- 🤖 Exploring **embedded-hal** ecosystem and contributing to Rust embedded community
-- 📡 Developing **universal connectivity solutions** for heterogeneous platforms
-- 🌐 Expanding expertise in **IoT system architecture** and edge computing
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [jorge-de-la-flor](https://linkedin.com/in/jorge-de-la-flor)
-- **Email:** jafdelaflor@gmail.com
-- **Portfolio:** [jorge-de-la-flor.github.io](https://jorge-de-la-flor.github.io)
-- **Code Samples:** Available as GitHub Gists • Detailed project information provided upon request
+- 🌐 **Portfolio**: [jorge-de-la-flor.github.io](https://jorge-de-la-flor.github.io)  
+- 💼 **LinkedIn**: [jorge-de-la-flor](https://linkedin.com/in/jorge-de-la-flor)  
+- 📧 **Email**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
 
 ---
 
