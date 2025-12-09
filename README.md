@@ -2,9 +2,8 @@
 
 **Cross-Industry Business-Focused Embedded Systems Engineer & Integrator**  
 International Business Professional • Python & Rust Developer • IoT Solutions Architect
-
-## 🎯 What I Do
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## 🎯 What I Do
 I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
 
 **Core Focus Areas:**
