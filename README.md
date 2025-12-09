@@ -6,8 +6,10 @@ International Business Professional • Python & Rust Developer • IoT Solution
 ## 🎯 What I Do
 
 I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 **Core Focus Areas:**
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔧 Embedded edge systems development and hardware-software integration
 - 🤖 Industrial automation and IoT monitoring solutions
 - 📊 Business process optimization through custom software
