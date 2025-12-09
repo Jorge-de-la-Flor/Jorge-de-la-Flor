@@ -4,7 +4,7 @@
 International Business Professional • Python & Rust Developer • IoT Solutions Architect
 
 ## 🎯 What I Do
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
 
 **Core Focus Areas:**
@@ -17,7 +17,6 @@ I bridge business strategy and technical execution, specializing in **embedded s
 ## 💻 Tech Stack
 
 **Languages & Core:**
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - **Python** (Advanced) - Primary development language, automation, computer vision
 - **Rust** - Systems programming, embedded development
 - **C/C++** - Embedded systems (Arduino, ESP-IDF, STM32Cube)
