@@ -2,12 +2,12 @@
 
 **Cross-Industry Business-Focused Embedded Systems Engineer & Integrator**  
 International Business Professional • Python & Rust Developer • IoT Solutions Architect
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## 🎯 What I Do
 I bridge business strategy and technical execution, specializing in **embedded systems**, **process automation**, and **data-driven operations**. My unique combination of dual-degree international business education and advanced technical skills enables me to translate complex business requirements into scalable, efficient solutions.
 
 **Core Focus Areas:**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 🔧 Embedded edge systems development and hardware-software integration
 - 🤖 Industrial automation and IoT monitoring solutions
 - 📊 Business process optimization through custom software
