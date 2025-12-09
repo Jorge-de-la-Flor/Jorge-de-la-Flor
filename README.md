@@ -1,15 +1,8 @@
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 # Jorge de la Flor
 
 **Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
 
 I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jorge--de--la--flor.github.io-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://jorge-de-la-flor.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--de--la--flor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-de-la-flor)
-[![Email](https://img.shields.io/badge/Email-jafdelaflor@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafdelaflor@gmail.com)
 
 ---
 
@@ -17,7 +10,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 - Specialized in **embedded systems**, **Micro AI** and solutions in **Python** and **Rust**.  
 - Background in **International Business**, which helps translate business needs into real technical systems.  
-- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things more **simple**, more **fast** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
+- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things **simpler**, **faster** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
 
 ---
 
@@ -25,9 +18,9 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 **Main languages**
 
-- 🐍 **Python** – Automation, backend, tooling, data.  
-- 🦀 **Rust** – Systems, embedded, `embedded-hal`.  
-- ⚙️ **C/C++** – Arduino, ESP-IDF, STM32 (bare-metal / HAL).
+- 🐍 **Python** · Automation, backend, tooling, data.  
+- 🦀 **Rust** · Systems, embedded, `embedded-hal`.  
+- ⚙️ **C/C++** · Arduino, ESP-IDF, STM32 (bare-metal / HAL).
 
 **Embedded & IoT**
 
@@ -49,7 +42,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 - 🦀 **Crab Code Institute** – Rust for systems and embedded with `embedded-hal` and custom tooling.  
 - ⚙️ **Industrial embedded systems** – ESP32/STM32/Arduino → Rust HALs → monitoring and IoT in production.
 
-More project details and context are on my **[portfolio](https://jorge-de-la-flor.github.io)**.
+> More project details and context are on my [portfolio](https://jorge-de-la-flor.github.io).
 
 ---
 
