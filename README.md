@@ -20,23 +20,15 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 🛠️ Tech stack
 
-**Main languages**
-
-- 🐍 **Python** · Automation, backend, tooling, data.  
-- 🦀 **Rust** · Systems, embedded, `embedded-hal`.  
-- ⚙️ **C/C++** · Arduino, ESP-IDF, STM32 (bare-metal / HAL).
-
-**Embedded & IoT**
-
-- Boards: **ESP32**, **STM32**, **Arduino**.  
-- Tooling: PlatformIO, ESP-IDF, STM32Cube.  
-- Protocols: UART, I2C, SPI, MQTT.
-
-**Backend, data & environment**
-
-- APIs with **FastAPI / Flask**.  
-- Databases: **PostgreSQL**, **SQLite**.  
-- Automation and scripting on **Linux**.
+| Area                | Uso principal                                                                 |
+|---------------------|-------------------------------------------------------------------------------|
+| 🐍 Python           | Automation, backend APIs, tooling, data pipelines                            |
+| 🦀 Rust             | Systems, embedded, `embedded-hal`, safe low-level tooling                    |
+| ⚙️ C/C++            | Arduino, ESP-IDF, STM32 (bare-metal / HAL), integración con SDKs propietarios |
+| 🔌 Embedded & IoT   | ESP32, STM32, Arduino; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT  |
+| 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
+| 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
+| ☁️ Cloud & APIs     | FastAPI / Flask APIs, integrations, webhooks, automation SaaS                |
 
 ---
 
