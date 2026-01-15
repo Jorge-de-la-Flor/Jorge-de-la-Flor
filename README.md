@@ -1,8 +1,10 @@
 # Jorge de la Flor
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)]()
-[![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=flat-square)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FCPP-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0078D4?style=flat-square)
+![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square)
 
 **Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
 
