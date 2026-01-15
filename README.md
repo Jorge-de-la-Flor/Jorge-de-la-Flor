@@ -1,4 +1,9 @@
 # Jorge de la Flor
+# Jorge de la Flor
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)]()
+[![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=flat-square)]()
 
 **Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
 
