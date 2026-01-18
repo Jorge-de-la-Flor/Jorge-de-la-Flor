@@ -1,4 +1,4 @@
-# Jorge de la Flor
+# Jorge de la Flor (aka FrostCore)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
