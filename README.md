@@ -1,3 +1,5 @@
+README in [Spanish](README.es.md)
+
 # Jorge de la Flor (aka FrostCore)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
