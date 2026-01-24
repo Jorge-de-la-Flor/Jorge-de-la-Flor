@@ -7,9 +7,8 @@ README in [Spanish](README.es.md)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0078D4?style=flat-square)
 ![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square)
-![HPC](https://img.shields.io/badge/HPC-High%20Performance%20Computing-8A2BE2?style=flat-square)
-![HPEC](https://img.shields.io/badge/HPEC-High%20Performance%20Embedded%20Computing-8A2BE2?style=flat-square)
-![HPC/HPEC](https://img.shields.io/badge/HPC%2FHPEC-Edge%20AI-8A2BE2?style=flat-square)
+![HPC/HPEC](https://img.shields.io/badge/HPC-HPEC-8A2BE2?style=flat-square)
+
 
 **Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
 
