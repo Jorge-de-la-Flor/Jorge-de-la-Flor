@@ -17,7 +17,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 🧠 About me
 
-- Specialized in **embedded systems**, **Micro AI** and solutions in **Python** and **Rust**.  
+- Specialized in **embedded systems**, **HPC/HPEC** and **Micro AI**, with solutions in **Python** and **Rust**.  
 - Background in **International Business**, which helps translate business needs into real technical systems.  
 - Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things **simpler**, **faster** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
 
