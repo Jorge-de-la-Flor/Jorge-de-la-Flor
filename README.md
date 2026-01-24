@@ -8,6 +8,7 @@ README in [Spanish](README.es.md)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0078D4?style=flat-square)
 ![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square)
 ![HPC/HPEC](https://img.shields.io/badge/HPC-HPEC-8A2BE2?style=flat-square)
+![HPC | HPEC](https://img.shields.io/badge/HPC%20%7C%20HPEC-Systems-8A2BE2?style=flat-square)
 
 
 **Embedded & Micro AI Developer · Python & Rust · From hardware to business impact**
