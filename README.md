@@ -42,15 +42,9 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 📫 Where to find me
 
-- 🌐 **Portfolio**: [jorge-de-la-flor.github.io](https://jorge-de-la-flor.github.io)  
-- 💼 **LinkedIn**: [jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/)
 - 📧 **Email**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
-
----
-
-💡 *Open to collaboration on embedded systems projects, industrial automation solutions, and innovative hardware–software integration challenges.*
-
-🌎 *Available for remote consulting and technical advisory roles with international teams.*
+- 💡 *Open to collaboration on embedded systems, industrial automation, and innovative hardware–software integration.*
+- 🌎 *Available for remote consulting and technical advisory roles with international teams.*
 
 
 
