@@ -35,6 +35,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 | 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
 | 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
 | ☁️ Cloud & APIs     | FastAPI / Flask APIs, integrations, webhooks, automation SaaS                |
+
 - Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**.
 
 ---
