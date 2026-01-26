@@ -37,16 +37,6 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ---
 
-## 🚀 Projects
-
-- 🐍 **Snake Code Institute** – Professional Python track: from fundamentals to architecture (SOLID, testing, FastAPI).  
-- 🦀 **Crab Code Institute** – Rust for systems and embedded with `embedded-hal` and custom tooling.  
-- ⚙️ **Industrial embedded systems** – ESP32/STM32/Arduino → Rust HALs → monitoring and IoT in production.
-
-> More project details and context are on my [portfolio](https://jorge-de-la-flor.github.io).
-
----
-
 ## 🎯 Current focus
 
 - Deepening **Rust** for embedded systems and reusable frameworks.  
