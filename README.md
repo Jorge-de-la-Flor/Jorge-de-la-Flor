@@ -43,7 +43,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 ## 📫 Where to find me
 
 - 🌐 **Portfolio**: [jorge-de-la-flor.github.io](https://jorge-de-la-flor.github.io)  
-- 💼 **LinkedIn**: [jorge-de-la-flor]([https://linkedin.com/in/jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/))  
+- 💼 **LinkedIn**: [jorge-de-la-flor](https://www.linkedin.com/in/jorge-de-la-flor-100950210/)
 - 📧 **Email**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
 
 ---
