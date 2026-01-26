@@ -19,7 +19,8 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 - Specialized in **embedded systems**, **HPC/HPEC** and **Micro AI**, with solutions in **Python** and **Rust**.  
 - Background in **International Business**, which helps translate business needs into real technical systems.  
-- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**. I care about making things **simpler**, **faster** and more **reliable** for everyone. I am always looking for ways to **optimize** each system a bit further.
+- I care about making things **simpler**, **faster** and more **reliable** for everyone.
+- I am always looking for ways to **optimize** each system a bit further.
 
 ---
 
@@ -34,14 +35,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 | 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
 | 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
 | ☁️ Cloud & APIs     | FastAPI / Flask APIs, integrations, webhooks, automation SaaS                |
-
----
-
-## 🎯 Current focus
-
-- Deepening **Rust** for embedded systems and reusable frameworks.  
-- Designing **Micro AI at the edge** for real-world use cases (optimization, monitoring, automation).  
-- Creating educational content for developers who want to move from “scripts” to **systems**.
+- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**.
 
 ---
 
