@@ -9,7 +9,7 @@ README in [Spanish](README.es.md)
 ![HPC/HPEC](https://img.shields.io/badge/HPC%20%7C%20HPEC-Systems-CE422B?style=flat-square)
 ![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square)
 
-**Embedded & Edge Systems Developer · Rust & Python on Linux/Ubuntu · From hardware to business impact**
+**Embedded Systems & Edge Computing Developer | Rust & Python | Linux / Embedded Linux · From hardware to business impact**
 
 I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
 
