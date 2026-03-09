@@ -42,7 +42,7 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 📫 Where to find me
 
-- 📧 **Email**: [frostcore.dev@proton.me](mailto:frostcore.dev@proton.me)
+- 📧 **Email**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
 - 💡 *Open to collaboration on embedded systems, industrial automation, and innovative hardware–software integration.*
 - 🌎 *Available for remote consulting and technical advisory roles with international teams.*
 
