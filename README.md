@@ -1,4 +1,4 @@
-README in [Spanish](README.es.md)
+English | [Español](README.es.md)
 
 # Jorge de la Flor (aka FrostCore)
 
