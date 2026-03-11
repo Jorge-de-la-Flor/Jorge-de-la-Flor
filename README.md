@@ -13,7 +13,7 @@ English | [Español](README.es.md)
 
 <!-- **Embedded Systems & Robotics Developer | Rust & Python | Linux / Embedded Linux · From hardware to business impact** -->
 
-**Embedded Systems & Robotics Developer**
+**Embedded Systems & Robotics Engineer**
 
 **Rust & Python | Linux / Embedded Linux**
 
