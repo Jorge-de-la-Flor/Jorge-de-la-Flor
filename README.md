@@ -1,4 +1,5 @@
 <div align="center">
+  
 English | [Español](README.es.md)
 
 # Jorge de la Flor (aka FrostCore)
@@ -10,9 +11,13 @@ English | [Español](README.es.md)
 ![HPC/HPEC](https://img.shields.io/badge/HPC%20%7C%20HPEC-Systems-CE422B?style=flat-square)
 ![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square)
 
-**Embedded Systems & Robotics Developer | Rust & Python | Linux / Embedded Linux · From hardware to business impact**
-**Embedded Systems & Robotics Developer
-Rust & Python | Linux / Embedded Linux**
+<!-- **Embedded Systems & Robotics Developer | Rust & Python | Linux / Embedded Linux · From hardware to business impact** -->
+
+**Embedded Systems & Robotics Developer**
+
+**Rust & Python | Linux / Embedded Linux**
+
+**From hardware to business impact**
 
 I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
 </div>
