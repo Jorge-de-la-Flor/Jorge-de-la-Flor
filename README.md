@@ -21,6 +21,7 @@ English | [Español](README.es.md)
 
 I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
 </div>
+
 ---
 
 ## 🧠 About me
