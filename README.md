@@ -34,6 +34,15 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 🔬 Robotics & Systems Labs
 
+These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems:
+
+- **Perception and probabilistic sensing**
+- **Bayesian estimation and sensor fusion**
+- **Robot perception and environment representation**
+- **Feedback control and system dynamics**
+- **Embedded state-machine architectures**
+- **Distributed coordination of edge devices**
+
 I maintain a collection of small experimental repositories exploring fundamental concepts used in robotics and cyber-physical systems.
 
 These repositories focus on **core engineering concepts** rather than large production frameworks.
