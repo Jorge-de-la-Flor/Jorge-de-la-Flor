@@ -31,21 +31,27 @@ I maintain a collection of small experimental repositories exploring fundamental
 These repositories focus on **core engineering concepts** rather than large production frameworks.
 
 * **sensor-uncertainty-lab**
+
   Experiments exploring probabilistic models of noisy sensor measurements.
 
 * **bayesian-sensor-fusion**
+
   Minimal implementations of Kalman filters, particle filters, and multi-sensor fusion.
 
 * **robot-perception-lab**
+
   Probabilistic perception techniques such as occupancy grids and localization.
 
 * **control-systems-lab**
+
   Feedback control experiments demonstrating PID controllers and system dynamics.
 
 * **embedded-state-machine-systems**
+
   Finite state machine architectures commonly used in embedded robotics systems.
 
 * **edge-device-coordination**
+
   Coordination patterns for distributed embedded nodes and edge devices.
 
 ---
