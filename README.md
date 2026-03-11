@@ -66,7 +66,7 @@ These repositories focus on **core engineering concepts** rather than large prod
 
 ## 🛠️ Tech stack
 
-| Area                | Uso principal                                                                 |
+| Area                | Primary use                                                                 |
 |---------------------|-------------------------------------------------------------------------------|
 | 🐍 Python           | Automation, backend APIs, tooling, data pipelines                            |
 | 🦀 Rust             | Systems, embedded, `embedded-hal`, safe low-level tooling                    |
