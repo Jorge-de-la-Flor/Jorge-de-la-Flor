@@ -51,22 +51,28 @@ Se centran en **ideas fundamentales de ingeniería** en lugar de grandes marcos 
 ### Repositorios
 
 * **sensor-uncertainty-lab**
-Experimentos que exploran modelos probabilísticos de mediciones de sensores ruidosos.
+
+  Experimentos que exploran modelos probabilísticos de mediciones de sensores ruidosos.
 
 * **bayesian-sensor-fusion**
-Implementaciones mínimas de filtros de Kalman, filtros de partículas y fusión multisensor.
+
+  Implementaciones mínimas de filtros de Kalman, filtros de partículas y fusión multisensor.
 
 * **robot-perception-lab**
-Técnicas de percepción probabilística como cuadrículas de ocupación y localización.
+
+  Técnicas de percepción probabilística como cuadrículas de ocupación y localización.
 
 * **control-systems-lab**
-Experimentos de control de retroalimentación que demuestran controladores PID y dinámica de sistemas.
+
+  Experimentos de control de retroalimentación que demuestran controladores PID y dinámica de sistemas.
 
 * **sistemas de máquinas de estados embebidos**
-Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
+
+  Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
 
 * **coordinación de dispositivos de borde**
-Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
+
+  Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
 
 ---
 
