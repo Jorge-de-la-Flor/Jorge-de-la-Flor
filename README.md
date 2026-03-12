@@ -76,7 +76,7 @@ They focus on **core engineering ideas** rather than large production frameworks
 |---------------------|-------------------------------------------------------------------------------|
 | 🐍 Python           | Automation, backend APIs, tooling, data pipelines                            |
 | 🦀 Rust             | Systems, embedded, `embedded-hal`, safe low-level tooling                    |
-| ⚙️ C/C++            | Arduino, ESP-IDF, STM32 (bare-metal / HAL), integración con SDKs propietarios |
+| ⚙️ C/C++            | Arduino, ESP-IDF, STM32 (bare-metal / HAL), proprietary SDK integration      |
 | 🔌 Embedded & IoT   | ESP32, STM32, Arduino; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT  |
 | 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
 | 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
