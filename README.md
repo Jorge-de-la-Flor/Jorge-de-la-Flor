@@ -35,7 +35,11 @@ I build systems that live close to the data: microcontrollers, edge devices and 
 
 ## 🔬 Robotics & Systems Labs
 
-These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems:
+These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems.
+
+They focus on **core engineering ideas** rather than large production frameworks, illustrating the principles behind sensing, estimation, control, and distributed machine behaviour.
+
+### Core concepts explored
 
 - **Perception and probabilistic sensing**
 - **Bayesian estimation and sensor fusion**
@@ -44,32 +48,24 @@ These repositories explore fundamental engineering concepts commonly used in rob
 - **Embedded state-machine architectures**
 - **Distributed coordination of edge devices**
 
-I maintain a collection of small experimental repositories exploring fundamental concepts used in robotics and cyber-physical systems.
+### Repositories
 
-These repositories focus on **core engineering concepts** rather than large production frameworks.
-
-* **sensor-uncertainty-lab**
-
+* **sensor-uncertainty-lab**  
   Experiments exploring probabilistic models of noisy sensor measurements.
 
-* **bayesian-sensor-fusion**
-
+* **bayesian-sensor-fusion**  
   Minimal implementations of Kalman filters, particle filters, and multi-sensor fusion.
 
-* **robot-perception-lab**
-
+* **robot-perception-lab**  
   Probabilistic perception techniques such as occupancy grids and localization.
 
-* **control-systems-lab**
-
+* **control-systems-lab**  
   Feedback control experiments demonstrating PID controllers and system dynamics.
 
-* **embedded-state-machine-systems**
-
+* **embedded-state-machine-systems**  
   Finite state machine architectures commonly used in embedded robotics systems.
 
-* **edge-device-coordination**
-
+* **edge-device-coordination**  
   Coordination patterns for distributed embedded nodes and edge devices.
 
 ---
