@@ -88,7 +88,7 @@ They focus on **core engineering ideas** rather than large production frameworks
 
 ## 📫 Where to find me
 
-- 📧 **Email**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
+- 📧 **Email**: [frostcore@jafa.dev](mailto:frostcore@jafa.dev)
 - 💡 *Open to collaboration on embedded systems, industrial automation, and innovative hardware–software integration.*
 - 🌎 *Available for remote consulting and technical advisory roles with international teams.*
 
