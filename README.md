@@ -39,6 +39,8 @@ These repositories explore fundamental engineering concepts commonly used in rob
 
 They focus on **core engineering ideas** rather than large production frameworks, illustrating the principles behind sensing, estimation, control, and distributed machine behaviour.
 
+Includes implementations of Kalman filtering, Bayesian estimation, and control systems grounded in practical sensor uncertainty.
+
 ### Core concepts explored
 
 - **Perception and probabilistic sensing**
