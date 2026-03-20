@@ -19,7 +19,7 @@ English | [Español](README.es.md)
 
 **Building cyber-physical systems from sensors to distributed machines**
 
-I build systems that live close to the data: microcontrollers, edge devices and integrations that connect hardware, software and business.
+I design and build cyber-physical systems where sensing, estimation, and control must operate reliably under real-world uncertainty.
 </div>
 
 ---
