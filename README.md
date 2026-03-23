@@ -4,10 +4,15 @@ English | [Español](README.es.md)
 
 # Jorge de la Flor (aka FrostCore)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0078D4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Systems%20%26%20Data-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-CE422B?style=flat-square&logo=rust&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Embedded%20Development-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![Embedded Systems](https://img.shields.io/badge/Embedded-Real--Time%20Systems-0078D4?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-Systems-0A192F?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Edge%20Computing-FF6F00?style=flat-square)
+![Control Systems](https://img.shields.io/badge/Control-PID%20%26%20Dynamics-2E8B57?style=flat-square)
+
 <!--![HPC/HPEC](https://img.shields.io/badge/HPC%20%7C%20HPEC-Systems-CE422B?style=flat-square)
 ![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square) -->
 
