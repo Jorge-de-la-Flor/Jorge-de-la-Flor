@@ -24,7 +24,7 @@ English | [Español](README.es.md)
 
 **Designing embedded and distributed systems for real-world sensing, estimation, and control**
 
-I build cyber-physical systems where noisy sensor data, constrained computation, and asynchronous communication must be handled to achieve reliable state estimation and system behaviour.
+I build cyber-physical systems where noisy sensor data, constrained computation, and asynchronous communication must be managed to achieve reliable state estimation and system behaviour.
 </div>
 
 ---
@@ -39,7 +39,7 @@ I build cyber-physical systems where noisy sensor data, constrained computation,
 
 ## 🚀 Featured Project
 
-### Distributed Sensing Platform
+### Distributed Sensing Platform (Distributed Cyber-Physical System)
 
 End-to-end cyber-physical system integrating embedded sensing, probabilistic state estimation, and distributed edge processing.
 
@@ -55,11 +55,11 @@ This project demonstrates the integration of probabilistic estimation, determini
 
 ## 🔬 Robotics & Systems Labs
 
-These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems.
+These repositories examine fundamental engineering concepts commonly used in robotics and cyber-physical systems.
 
-They explore the **core engineering principles** underlying robotics systems, with emphasis on sensing, estimation, control, and distributed coordination in real-world conditions.
+They focus on the core engineering principles underlying robotics systems, with emphasis on sensing, estimation, control, and distributed coordination in real-world conditions.
 
-Includes implementations of Kalman filtering, Bayesian estimation, and control systems evaluated under realistic sensor noise and system constraints.
+Includes implementations of Kalman filtering, Bayesian estimation, and control systems evaluated under realistic sensor noise and system-level constraints.
 
 ### Core concepts explored
 
