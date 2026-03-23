@@ -28,7 +28,7 @@ I design and build cyber-physical systems where sensing, estimation, and control
 
 - Specialized in **embedded systems**, **HPC/HPEC** and **Micro AI**, with solutions in **Python** and **Rust**.  
 - Background in **International Business**, which helps translate business needs into real technical systems.  
-- I care about making things **simpler**, **faster** and more **reliable** for everyone.
+- I focus on designing systems that remain stable and reliable under real-world uncertainty, where sensing, estimation, and control interact in constrained environments.
 - I am always looking for ways to **optimize** each system a bit further.
 
 ---
