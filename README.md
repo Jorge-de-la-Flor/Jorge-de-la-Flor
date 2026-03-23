@@ -33,6 +33,22 @@ I design and build cyber-physical systems where sensing, estimation, and control
 
 ---
 
+## 🚀 Featured Project
+
+### Distributed Sensing Platform
+
+End-to-end cyber-physical system integrating embedded sensing, probabilistic state estimation, and distributed edge processing.
+
+- Embedded Kalman filtering for noise-aware state estimation  
+- Finite-state machine for deterministic multi-sensor control  
+- Distributed architecture (UART → MQTT → edge node)  
+- Real-time data pipeline with SQLite and REST API  
+- Live monitoring dashboard via Server-Sent Events  
+
+This project reflects my focus on building systems that operate reliably under real-world uncertainty.
+
+---
+
 ## 🔬 Robotics & Systems Labs
 
 These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems.
