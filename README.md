@@ -56,7 +56,7 @@ Includes implementations of Kalman filtering, Bayesian estimation, and control s
   Experiments exploring probabilistic models of noisy sensor measurements.
 
 * **bayesian-sensor-fusion**  
-  Implementations of Kalman filters, particle filters, and multi-sensor fusion.
+  Implementations of Kalman filters, particle filters, and multi-sensor fusion techniques for state estimation in robotics systems.
 
 * **robot-perception-lab**  
   Probabilistic perception techniques such as occupancy grids and localization.
