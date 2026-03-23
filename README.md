@@ -22,9 +22,9 @@ English | [Español](README.es.md)
 
 **Rust & Python | Linux / Embedded Linux**
 
-**Building cyber-physical systems from sensors to distributed machines**
+**Designing embedded and distributed systems for real-world sensing, estimation, and control**
 
-I design and build cyber-physical systems where sensing, estimation, and control must operate reliably under real-world uncertainty.
+I build cyber-physical systems where noisy sensor data, constrained computation, and asynchronous communication must be handled to achieve reliable state estimation and system behaviour.
 </div>
 
 ---
@@ -33,9 +33,8 @@ I design and build cyber-physical systems where sensing, estimation, and control
 
 - Specialized in **embedded systems**, **robotics**, and **distributed systems**, with solutions in **Python** and **Rust**. 
 - Background in **International Business**, which helps translate business needs into real technical systems.  
-- I focus on designing systems that remain stable and reliable under real-world uncertainty, where sensing, estimation, and control interact in constrained environments.
-- I am always looking for ways to **optimize** each system a bit further.
-
+- I focus on designing systems that remain stable under noisy sensing conditions, constrained computation, and asynchronous communication between distributed components.
+  
 ---
 
 ## 🚀 Featured Project
@@ -50,7 +49,7 @@ End-to-end cyber-physical system integrating embedded sensing, probabilistic sta
 - Real-time data pipeline with SQLite and REST API  
 - Live monitoring dashboard via Server-Sent Events  
 
-This project reflects my focus on building systems that operate reliably under real-world uncertainty.
+This project demonstrates the integration of probabilistic estimation, deterministic control, and distributed system design under real-world sensing constraints.
 
 ---
 
@@ -58,9 +57,9 @@ This project reflects my focus on building systems that operate reliably under r
 
 These repositories explore fundamental engineering concepts commonly used in robotics and cyber-physical systems.
 
-They focus on **core engineering ideas** rather than large production frameworks, illustrating the principles behind sensing, estimation, control, and distributed machine behaviour.
+They explore the **core engineering principles** underlying robotics systems, with emphasis on sensing, estimation, control, and distributed coordination in real-world conditions.
 
-Includes implementations of Kalman filtering, Bayesian estimation, and control systems grounded in practical sensor uncertainty.
+Includes implementations of Kalman filtering, Bayesian estimation, and control systems evaluated under realistic sensor noise and system constraints.
 
 ### Core concepts explored
 
@@ -104,8 +103,6 @@ Includes implementations of Kalman filtering, Bayesian estimation, and control s
 | 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
 | 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
 | ☁️ Cloud & APIs     | FastAPI / Flask APIs, integrations, webhooks, automation SaaS                |
-
-- Beyond the list of technologies, what matters to me is that every **project** has a **clear purpose**.
 
 ---
 
