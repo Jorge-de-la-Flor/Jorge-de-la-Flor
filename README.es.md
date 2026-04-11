@@ -17,11 +17,11 @@
 
 **Ingeniero de Sistemas Embebidos y Robótica**
 
-**Rust y Python | Linux / Linux Embebido**
+**Rust y Python | Linux / Linux embebido**
 
-**Construyendo sistemas ciberfísicos, desde sensores hasta máquinas distribuidas**
+**Diseño de sistemas embebidos y distribuidos para detección, estimación y control en entornos reales**
 
-Construyo sistemas que viven cerca de los datos: microcontroladores, dispositivos edge e integraciones que conectan hardware, software y negocio.
+Desarrollo sistemas ciberfísicos donde es necesario gestionar datos de sensores con ruido, computación con recursos limitados y comunicación asíncrona para lograr una estimación de estado y un comportamiento del sistema fiables.
 </div>
 
 ---
