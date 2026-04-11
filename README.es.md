@@ -28,74 +28,89 @@ Desarrollo sistemas ciberfísicos donde es necesario gestionar datos de sensores
 
 ## 🧠 Sobre mí
 
-- Especializado en **sistemas embebidos**, **HPC/HPEC** y **Micro IA**, con soluciones en **Python** y **Rust**.
-- Experiencia en **Negocios Internacionales**, lo que me ayuda a traducir las necesidades empresariales en sistemas técnicos reales.
-- Me preocupa hacer las cosas **más sencillas**, **más rápidas** y **más fiables** para todos.
-- Siempre busco maneras de **optimizar** cada sistema un poco más.
+- Especializado en **sistemas embebidos**, **robótica** y **sistemas distribuidos**, con soluciones en **Python** y **Rust**.
+- Experiencia en **Negocios Internacionales**, lo que me permite traducir las necesidades empresariales en sistemas técnicos reales.
+- Me centro en el diseño de sistemas que se mantienen estables en condiciones de detección con ruido, computación restringida y comunicación asíncrona entre componentes distribuidos.
+
+---
+
+## 🚀 Proyecto Destacado
+
+### Plataforma de Detección Distribuida (Sistema Ciberfísico Distribuido)
+
+Sistema ciberfísico integral que integra detección embebida, estimación de estado probabilística y procesamiento distribuido en el borde.
+
+- Filtrado de Kalman embebido para estimación de estado con detección de ruido
+- Máquina de estados finitos para control multisensor determinista
+- Arquitectura distribuida (UART → MQTT → nodo de borde)
+- Canalización de datos en tiempo real con SQLite y API REST
+- Panel de monitorización en vivo mediante eventos enviados por el servidor
+
+Este proyecto demuestra la integración de estimación probabilística, control determinista y diseño de sistemas distribuidos bajo las limitaciones de detección del mundo real.
 
 ---
 
 ## 🔬 Laboratorios de Robótica y Sistemas
 
-Estos repositorios exploran conceptos fundamentales de ingeniería comúnmente utilizados en robótica y sistemas ciberfísicos.
+Estos repositorios examinan conceptos fundamentales de ingeniería comúnmente utilizados en robótica y sistemas ciberfísicos.
 
-Se centran en **ideas fundamentales de ingeniería** en lugar de grandes marcos de producción, ilustrando los principios detrás de la detección, la estimación, el control y el comportamiento distribuido de las máquinas.
+Se centran en los principios de ingeniería básicos que subyacen a los sistemas robóticos, con énfasis en la detección, la estimación, el control y la coordinación distribuida en condiciones reales.
 
-### Conceptos básicos explorados
+Incluye implementaciones de filtrado de Kalman, estimación bayesiana y sistemas de control evaluados bajo ruido de sensores realista y restricciones a nivel de sistema.
+
+### Conceptos clave explorados
 
 - **Percepción y detección probabilística**
 - **Estimación bayesiana y fusión de sensores**
 - **Percepción robótica y representación del entorno**
-- **Control de retroalimentación y dinámica de sistemas**
+- **Control por retroalimentación y dinámica de sistemas**
 - **Arquitecturas de máquinas de estados integradas**
-- **Coordinación distribuida de dispositivos de borde**
+- **Coordinación distribuida de dispositivos periféricos**
 
 ### Repositorios
 
 * **sensor-uncertainty-lab**
 
-  Experimentos que exploran modelos probabilísticos de mediciones de sensores ruidosos.
+Experimentos que exploran modelos probabilísticos de mediciones de sensores con ruido.
 
 * **bayesian-sensor-fusion**
 
-  Implementaciones mínimas de filtros de Kalman, filtros de partículas y fusión multisensor.
+Implementaciones de filtros de Kalman, filtros de partículas y técnicas de fusión multisensor para la estimación de estado en sistemas robóticos.
 
 * **robot-perception-lab**
 
-  Técnicas de percepción probabilística como cuadrículas de ocupación y localización.
+Técnicas de percepción probabilística, como cuadrículas de ocupación y localización.
 
 * **control-systems-lab**
 
-  Experimentos de control de retroalimentación que demuestran controladores PID y dinámica de sistemas.
+Experimentos de control por retroalimentación que demuestran controladores PID y dinámica de sistemas.
 
-* **sistemas de máquinas de estados embebidos**
+* **embedded-state-machine-systems**
 
-  Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
+Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
 
-* **coordinación de dispositivos de borde**
+* **edge-device-coordination**
 
-  Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
+Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
 
 ---
 
-## 🛠️ Pila tecnológica
+## 🛠️ Tecnologías utilizadas
 
-| Área | Uso principal |
-|---------------------|-------------------------------------------------------------------------------|
-| 🐍 Python | Automatización, APIs de backend, herramientas, canalizaciones de datos |
-| 🦀 Rust | Sistemas, embebidos, `embedded-hal`, herramientas seguras de bajo nivel |
-| ⚙️ C/C++ | Arduino, ESP-IDF, STM32 (bare-metal / HAL), integración con SDK propietarios |
-| 🔌 Embebidos e IoT | ESP32, STM32, Arduino; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT |
+|        Área         |                                   Uso principal                                     |
+|---------------------|-------------------------------------------------------------------------------------| 
+| 🐍 Python | Automatización, APIs de backend, herramientas, pipelines de datos |
+| 🦀 Rust | Sistemas, sistemas embebidos, `embedded-hal`, herramientas seguras de bajo nivel |
+| ⚙️ C/C++ | Arduino, ESP-IDF, STM32 (bare-metal / HAL), integración de SDK propietarios |
+| 🔌 Sistemas embebidos e IoT | ESP32, STM32, Arduino; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT |
 | 🐧 Linux | Entornos de desarrollo, automatización, redes, integración edge |
-| 🗄️ Datos y almacenamiento | PostgreSQL, SQLite, patrones ORM, informes |
-| ☁️ Nube y APIs | APIs FastAPI / Flask, integraciones, webhooks, automatización SaaS |
-
-- Más allá de la lista de tecnologías, lo importante para mí es que cada **proyecto** tenga un **propósito claro**.
+| 🗄️ Datos y almacenamiento | PostgreSQL, SQLite, patrones ORM, generación de informes |
+| ☁️ Nube y APIs | APIs de FastAPI / Flask, integraciones, webhooks, automatización SaaS |
 
 ---
 
 ## 📫 Dónde encontrarme
 
-- 📧 **Correo electrónico**: [jafdelaflor@gmail.com](mailto:jafdelaflor@gmail.com)
-- 💡 *Abierto a colaborar en sistemas embebidos, automatización industrial e integración innovadora de hardware y software.*
-- 🌎 *Disponible para puestos de consultoría y asesoría técnica remota con equipos internacionales.*
+- 📧 **Correo electrónico**: [frostcore@jafa.dev](mailto:frostcore@jafa.dev)
+- 💡 *Disponible para colaborar en sistemas embebidos, automatización industrial e integración innovadora de hardware y software.*
+- 🌎 *Disponible para consultoría remota y asesoría técnica con equipos internacionales.*
