@@ -71,27 +71,27 @@ Incluye implementaciones de filtrado de Kalman, estimación bayesiana y sistemas
 
 * **sensor-uncertainty-lab**
 
-Experimentos que exploran modelos probabilísticos de mediciones de sensores con ruido.
+  Experimentos que exploran modelos probabilísticos de mediciones de sensores con ruido.
 
 * **bayesian-sensor-fusion**
 
-Implementaciones de filtros de Kalman, filtros de partículas y técnicas de fusión multisensor para la estimación de estado en sistemas robóticos.
+  Implementaciones de filtros de Kalman, filtros de partículas y técnicas de fusión multisensor para la estimación de estado en sistemas robóticos.
 
 * **robot-perception-lab**
 
-Técnicas de percepción probabilística, como cuadrículas de ocupación y localización.
+  Técnicas de percepción probabilística, como cuadrículas de ocupación y localización.
 
 * **control-systems-lab**
 
-Experimentos de control por retroalimentación que demuestran controladores PID y dinámica de sistemas.
+  Experimentos de control por retroalimentación que demuestran controladores PID y dinámica de sistemas.
 
 * **embedded-state-machine-systems**
 
-Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
+  Arquitecturas de máquinas de estados finitos comúnmente utilizadas en sistemas robóticos embebidos.
 
 * **edge-device-coordination**
 
-Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
+  Patrones de coordinación para nodos embebidos distribuidos y dispositivos de borde.
 
 ---
 
