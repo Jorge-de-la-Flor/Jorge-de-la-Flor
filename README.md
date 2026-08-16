@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 English | [Español](README.es.md)
 
 # Jorge de la Flor (aka FrostCore)
@@ -9,108 +9,106 @@ English | [Español](README.es.md)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Embedded%20Development-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Real--Time%20Systems-0078D4?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-Systems-0A192F?style=flat-square)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Edge%20Computing-FF6F00?style=flat-square)
-![Control Systems](https://img.shields.io/badge/Control-PID%20%26%20Dynamics-2E8B57?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-0089D6?style=flat-square)
+![Language Engineering](https://img.shields.io/badge/Language%20Engineering-Transpilers%20%26%20Codegen-8A2BE2?style=flat-square)
 
-<!--![HPC/HPEC](https://img.shields.io/badge/HPC%20%7C%20HPEC-Systems-CE422B?style=flat-square)
-![Micro AI](https://img.shields.io/badge/Micro%20AI-Edge-8A2BE2?style=flat-square) -->
+**Software & Cyber-Physical Systems Developer**
 
-<!-- **Embedded Systems & Robotics Developer | Rust & Python | Linux / Embedded Linux · From hardware to business impact** -->
+**Python & Rust · Low-level systems, distributed systems, embedded computing, cloud infrastructure**
 
-**Embedded Systems & Robotics Engineer**
+I build high-performance systems with a focus on security, software verification, and reliability in production — from firmware on a microcontroller to control planes running on Azure.
 
-**Rust & Python | Linux / Embedded Linux**
-
-**Designing embedded and distributed systems for real-world sensing, estimation, and control**
-
-I build cyber-physical systems where noisy sensor data, constrained computation, and asynchronous communication must be managed to achieve reliable state estimation and system behaviour.
 </div>
 
 ---
 
 ## 🧠 About me
 
-- Specialized in **embedded systems**, **robotics**, and **distributed systems**, with solutions in **Python** and **Rust**. 
-- Background in **International Business**, which helps translate business needs into real technical systems.  
-- I focus on designing systems that remain stable under noisy sensing conditions, constrained computation, and asynchronous communication between distributed components.
-  
+I design and ship low-level and distributed systems: embedded computing, cloud infrastructure, and language/codegen tooling, mostly in Python and Rust. My work centers on one question — does this actually hold up in production? — so every generator, transpiler, or runtime I publish is checked against real toolchains and real deployments, not just unit tests on strings.
+
+I'm also a technical instructor, open-source mentor, and speaker at tech community events (Microsoft Build 2026 Community Event, CSWeek 2026).
+
+Background in International Business, which helps me translate business needs into systems that ship.
+
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Distributed Sensing Platform (Distributed Cyber-Physical System)
+### Apider — Multi-Tenant Automation Runtime
+`Python · Azure Functions · PyPI · MCP · Paddle`
 
-End-to-end cyber-physical system integrating embedded sensing, probabilistic state estimation, and distributed edge processing.
+A serverless runtime exposing Email, Telegram, WhatsApp, Discord, Slack, Google Sheets, HTTP, Webhooks, and CloudScheduler through a clean Python SDK, plus an AI module (agentic tool-use, structured extraction, stateless RAG) that reuses the MCP tool catalog. Published on PyPI and validated by a 61-check end-to-end suite run against a live production deployment — with per-tenant HMAC key derivation, ContextVar isolation, and process-level sandboxing.
 
-- Embedded Kalman filtering for noise-aware state estimation  
-- Finite-state machine for deterministic multi-sensor control  
-- Distributed architecture (UART → MQTT → edge node)  
-- Real-time data pipeline with SQLite and REST API  
-- Live monitoring dashboard via Server-Sent Events  
+### OMNI-PY — Universal Language Transpiler
+`Python (ast) · Rust (PyO3) · Java · Go · JavaScript · Rust`
 
-This project demonstrates the integration of probabilistic estimation, deterministic control, and distributed system design under real-world sensing constraints.
+Full 16/16 source-to-target coverage across Java, Go, JavaScript, and Rust, using Python as a universal AST pivot. The Rust emitter is ownership-aware (exact `.clone()`/`.to_string()`, `Option<T>`, `div_euclid`/`rem_euclid` for Python semantics) — the borrow checker ends up being the pipeline's strictest reviewer. Every output is verified by actually compiling and running it with `rustc` and `javac`, backed by eight rustc-style lints and a dual-engine safety analyzer.
+
+### Pyperantio — Multi-Toolchain Firmware Generator
+`Python · Rust · embedded-hal · 5 MCU toolchains`
+
+A single typed Python API (`IOConfig`) describes hardware once and generates native firmware for five different toolchains — no more full HAL rewrites when porting between MCU families. Design-time validation rejects electrically invalid pin/peripheral configurations before emitting code, with rustc-style diagnostics localized into the user's language. Verified by generated Rust compiling under `thumbv6m-none-eabi` and 343 tests.
+
+### FrostCloud — Control-Plane in Rust
+`Rust · axum · SeaORM · PostgreSQL/SQLite`
+
+An all-Rust Cargo workspace providing accounts, identity, service catalog, and per-account activations as a control plane kept out of the request path. Architectural boundaries are enforced at the crate level — the identity logic knows nothing about axum or SeaORM. Tokens are 256-bit CSPRNG, stored only as SHA-256 hashes, with a test verifying the plaintext token is never a store key.
+
+### Flow++ — Pipeline Capacity Analysis
+`Python · stdlib-only · MIT`
+
+Turns opinion-based capacity planning into measurement: a fluent API models pipelines as stages with capacity and latency, locates the bottleneck, prescribes the minimal change to hit a target rate, and emits a shareable Architecture Decision Report. 77 tests, zero dependencies.
+
+### Distributed Sensing Platform — Cyber-Physical System
+`ESP32 · Raspberry Pi · Kalman Filter · MQTT · SQLite · SSE`
+
+A three-node cyber-physical system: discrete-time Kalman filtering on the MCU, an FSM-controlled multi-sensor pipeline (PIR + ultrasonic), UART → MQTT → edge distribution, SQLite persistence, a REST API, and a live dashboard over Server-Sent Events.
 
 ---
 
 ## 🔬 Robotics & Systems Labs
 
-These repositories examine fundamental engineering concepts commonly used in robotics and cyber-physical systems.
+Repositories exploring the core engineering principles behind robotics and cyber-physical systems — sensing, estimation, control, and distributed coordination under real-world constraints.
 
-They focus on the core engineering principles underlying robotics systems, with emphasis on sensing, estimation, control, and distributed coordination in real-world conditions.
-
-Includes implementations of Kalman filtering, Bayesian estimation, and control systems evaluated under realistic sensor noise and system-level constraints.
-
-### Core concepts explored
-
-- **Perception and probabilistic sensing**
-- **Bayesian estimation and sensor fusion**
-- **Robot perception and environment representation**
-- **Feedback control and system dynamics**
-- **Embedded state-machine architectures**
-- **Distributed coordination of edge devices**
-
-### Repositories
-
-* **sensor-uncertainty-lab**  
-  Experiments exploring probabilistic models of noisy sensor measurements.
-
-* **bayesian-sensor-fusion**  
-  Implementations of Kalman filters, particle filters, and multi-sensor fusion techniques for state estimation in robotics systems.
-
-* **robot-perception-lab**  
-  Probabilistic perception techniques such as occupancy grids and localization.
-
-* **control-systems-lab**  
-  Feedback control experiments demonstrating PID controllers and system dynamics.
-
-* **embedded-state-machine-systems**  
-  Finite state machine architectures commonly used in embedded robotics systems.
-
-* **edge-device-coordination**  
-  Coordination patterns for distributed embedded nodes and edge devices.
+* **sensor-uncertainty-lab** — Probabilistic models of noisy sensor measurements
+* **bayesian-sensor-fusion** — Kalman filters, particle filters, and multi-sensor fusion for state estimation
+* **robot-perception-lab** — Probabilistic perception: occupancy grids, localization
+* **control-systems-lab** — PID controllers and system dynamics
+* **embedded-state-machine-systems** — FSM architectures for embedded robotics
+* **edge-device-coordination** — Coordination patterns for distributed embedded nodes
 
 ---
 
 ## 🛠️ Tech stack
 
-| Area                | Primary use                                                                 |
-|---------------------|-------------------------------------------------------------------------------|
-| 🐍 Python           | Automation, backend APIs, tooling, data pipelines                            |
-| 🦀 Rust             | Systems, embedded, `embedded-hal`, safe low-level tooling                    |
-| ⚙️ C/C++            | Arduino, ESP-IDF, STM32 (bare-metal / HAL), proprietary SDK integration      |
-| 🔌 Embedded & IoT   | ESP32, STM32, Arduino; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT  |
-| 🐧 Linux            | Dev environments, automation, networking, edge integration                   |
-| 🗄️ Data & storage   | PostgreSQL, SQLite, ORM patterns, reporting                                  |
-| ☁️ Cloud & APIs     | FastAPI / Flask APIs, integrations, webhooks, automation SaaS                |
+| Area | Primary use |
+|---|---|
+| 🐍 Python | Automation, backend APIs, language engineering (AST, codegen), data pipelines |
+| 🦀 Rust | Systems, embedded, `embedded-hal`, safe low-level tooling, web services (axum) |
+| ⚙️ C/C++ | Arduino, ESP-IDF, STM32 (bare-metal / HAL), proprietary SDK integration |
+| 🔌 Embedded & IoT | ESP32, STM32, Arduino, RP2040; PlatformIO, ESP-IDF, STM32Cube; UART, I2C, SPI, MQTT |
+| ☁️ Cloud | Azure Functions (production), core AWS services (EC2, Lambda, S3, IAM), serverless multi-tenant design |
+| 🗄️ Data & storage | PostgreSQL, SQLite, SeaORM, SQLAlchemy |
+| 🤖 AI Agent Systems | MCP server design, agentic tool-use, JSON-RPC 2.0 |
+
+---
+
+## 🎤 Talks & Writing
+
+- *"Building a Multi-Tenant Python Runtime on Azure Functions"* — Microsoft Build 2026 Community Event, Azure User Group Latam (Lima, June 2026)
+- *"Isolation and Trust Boundaries in Production: Building Failure-Proof Systems"* — CSWeek 2026 (Lima, August 2026)
+- Author of *The Agnostic Engineer: Architecture Beyond Infrastructure* (complete manuscript, unpublished) — on designing systems that survive changes in infrastructure, language, and provider
 
 ---
 
 ## 📫 Where to find me
 
 - 📧 **Email**: [frostcore@jafa.dev](mailto:frostcore@jafa.dev)
-- 💡 *Open to collaboration on embedded systems, industrial automation, and innovative hardware–software integration.*
-- 🌎 *Available for remote consulting and technical advisory roles with international teams.*
+- 💼 [LinkedIn](https://linkedin.com/in/jorge-de-la-flor)
+- 🌐 [jafa.dev](https://jafa.dev)
+- 💡 Open to collaboration on embedded systems, industrial automation, and hardware–software integration
+- 🌎 Available for remote consulting and technical advisory roles with international teams
 
 
 
