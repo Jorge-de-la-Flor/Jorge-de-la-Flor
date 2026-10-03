@@ -72,7 +72,7 @@ Turns opinion-based capacity planning into measurement: a fluent API models pipe
 
 A three-node cyber-physical system: discrete-time Kalman filtering on the MCU, an FSM-controlled multi-sensor pipeline (PIR + ultrasonic), UART → MQTT → edge distribution, SQLite persistence, a REST API, and a live dashboard over Server-Sent Events.
 
-> Pycaudal, Pyperantio, FrostCloud and Apider's backend are closed-source while they become products. Happy to walk through any of them live on a screen share.
+> OMNI-PY, Pyperantio, FrostCloud and Apider's backend are closed-source while they become products. Happy to walk through any of them live on a screen share.
 
 ---
 
