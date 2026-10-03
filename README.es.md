@@ -62,7 +62,7 @@ Una sola API tipada en Python (`IOConfig`) describe el hardware una vez y genera
 
 Un workspace de Cargo íntegramente en Rust que provee cuentas, identidad, catálogo de servicios y activaciones por cuenta como plano de control fuera del camino de las peticiones. Las fronteras arquitectónicas se imponen por crate — la lógica de identidad no sabe nada de axum ni de SeaORM. Los tokens son CSPRNG de 256 bits, almacenados solo como hash SHA-256, con un test que verifica que el token en claro nunca es clave del almacén.
 
-### Flow++ — Análisis de capacidad de pipelines
+### Pycaudal — Análisis de capacidad de pipelines
 `Python · solo stdlib · CLI · Generador de ADR`
 
 Convierte la planificación de capacidad de opinión en medición: una API fluida modela pipelines como stages con capacidad y latencia, localiza el cuello de botella, prescribe el cambio mínimo para alcanzar una tasa objetivo y emite un Architecture Decision Report compartible. 77 tests, cero dependencias.
