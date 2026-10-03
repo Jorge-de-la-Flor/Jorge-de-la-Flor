@@ -62,7 +62,7 @@ A single typed Python API (`IOConfig`) describes hardware once and generates nat
 
 An all-Rust Cargo workspace providing accounts, identity, service catalog, and per-account activations as a control plane kept out of the request path. Architectural boundaries are enforced at the crate level — the identity logic knows nothing about axum or SeaORM. Tokens are 256-bit CSPRNG, stored only as SHA-256 hashes, with a test verifying the plaintext token is never a store key.
 
-### Flow++ — Pipeline Capacity Analysis
+### Pycaudal — Pipeline Capacity Analysis
 `Python · stdlib-only · CLI · ADR Generator`
 
 Turns opinion-based capacity planning into measurement: a fluent API models pipelines as stages with capacity and latency, locates the bottleneck, prescribes the minimal change to hit a target rate, and emits a shareable Architecture Decision Report. 77 tests, zero dependencies.
@@ -72,7 +72,7 @@ Turns opinion-based capacity planning into measurement: a fluent API models pipe
 
 A three-node cyber-physical system: discrete-time Kalman filtering on the MCU, an FSM-controlled multi-sensor pipeline (PIR + ultrasonic), UART → MQTT → edge distribution, SQLite persistence, a REST API, and a live dashboard over Server-Sent Events.
 
-> OMNI-PY, Pyperantio, FrostCloud and Apider's backend are closed-source while they become products. Happy to walk through any of them live on a screen share.
+> Pycaudal, Pyperantio, FrostCloud and Apider's backend are closed-source while they become products. Happy to walk through any of them live on a screen share.
 
 ---
 
